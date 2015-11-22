@@ -22,7 +22,7 @@
   "homepage": "https://github.com/doggan/mpq-extract#readme",
   "dependencies": {
     "commander": "^2.9.0",
-    "mech-mpq": "^1.0.0",
+    "mech-mpq": "^1.1.0",
     "mkdirp": "^0.5.1"
   }
 }
