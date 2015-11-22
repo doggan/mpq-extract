@@ -1,0 +1,28 @@
+{
+  "name": "mpq-extract",
+  "version": "1.0.0",
+  "description": "An MPQ archive extraction tool.",
+  "bin": "lib/cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doggan/mpq-extract.git"
+  },
+  "keywords": [
+    "mpq",
+    "archive"
+  ],
+  "author": "Shyam Guthikonda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doggan/mpq-extract/issues"
+  },
+  "homepage": "https://github.com/doggan/mpq-extract#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "mech-mpq": "^1.0.0",
+    "mkdirp": "^0.5.1"
+  }
+}
