@@ -1,5 +1,5 @@
 # mpq-extract
-A tool for extracting files from an MPQ archive.
+A tool for extracting files from MPQ archives.
 
 ## Installation
 `npm install mpq-extract -g`
