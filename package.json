@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/doggan/mpq-extract#readme",
   "dependencies": {
+    "async": "^1.5.2",
     "commander": "^2.9.0",
+    "lodash.map": "^4.0.1",
     "mech-mpq": "^1.1.0",
     "mkdirp": "^0.5.1"
   }
